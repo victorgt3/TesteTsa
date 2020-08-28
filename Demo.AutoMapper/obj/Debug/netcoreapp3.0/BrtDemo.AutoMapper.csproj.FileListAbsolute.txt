@@ -1,0 +1,14 @@
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\bin\Debug\netcoreapp3.0\BrtDemo.AutoMapper.deps.json
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\bin\Debug\netcoreapp3.0\BrtDemo.AutoMapper.dll
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\obj\Debug\netcoreapp3.0\BrtDemo.AutoMapper.csprojAssemblyReference.cache
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\obj\Debug\netcoreapp3.0\BrtDemo.AutoMapper.AssemblyInfoInputs.cache
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\obj\Debug\netcoreapp3.0\BrtDemo.AutoMapper.AssemblyInfo.cs
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\bin\Debug\netcoreapp3.0\BrtDemo.AutoMapper.pdb
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\bin\Debug\netcoreapp3.0\BrtDemo.Domain.Core.dll
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\bin\Debug\netcoreapp3.0\BrtDemo.Domain.dll
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\bin\Debug\netcoreapp3.0\BrtDemo.Domain.pdb
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\bin\Debug\netcoreapp3.0\BrtDemo.Domain.Core.pdb
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\obj\Debug\netcoreapp3.0\BrtDemo.AutoMapper.csproj.CopyComplete
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\obj\Debug\netcoreapp3.0\BrtDemo.AutoMapper.dll
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\obj\Debug\netcoreapp3.0\BrtDemo.AutoMapper.pdb
+C:\Projetos\BrtDemo\BrtDemo.AutoMapper\obj\Debug\netcoreapp3.0\BrtDemo.AutoMapper.csproj.CoreCompileInputs.cache

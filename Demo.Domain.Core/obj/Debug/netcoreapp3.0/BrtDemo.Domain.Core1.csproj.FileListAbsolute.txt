@@ -1,0 +1,3 @@
+C:\Projetos\BrtDemo\BrtDemo.Domain.Core1\obj\Debug\netcoreapp3.0\BrtDemo.Domain.Core1.csprojAssemblyReference.cache
+C:\Projetos\BrtDemo\BrtDemo.Domain.Core1\obj\Debug\netcoreapp3.0\BrtDemo.Domain.Core1.AssemblyInfoInputs.cache
+C:\Projetos\BrtDemo\BrtDemo.Domain.Core1\obj\Debug\netcoreapp3.0\BrtDemo.Domain.Core1.AssemblyInfo.cs

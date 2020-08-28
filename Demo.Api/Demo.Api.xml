@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Demo.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Demo.Api.Controllers.MedicoController.Get">
+            <summary>
+            Metodo retorna todos os medicos
+            </summary>
+        </member>
+        <member name="M:Demo.Api.Controllers.MedicoController.Get(System.Guid)">
+            <summary>
+            Metodo retorna um medico por id
+            </summary>
+        </member>
+        <member name="M:Demo.Api.Controllers.MedicoController.GetEspecialidade(System.String)">
+            <summary>
+            Metodo retorna medicos por especialidade
+            </summary>
+        </member>
+        <member name="M:Demo.Api.Controllers.MedicoController.Post(Demo.AutoMapper.ViewModels.PostMedicoViewModel)">
+            <summary>
+            Metodo cadastra um medico e suas especialidades não e necessario o id.
+            </summary>
+        </member>
+        <member name="M:Demo.Api.Controllers.MedicoController.Delete(System.Guid)">
+            <summary>
+            Metodo deleta um medico e suas especialidade
+            </summary>
+        </member>
+    </members>
+</doc>

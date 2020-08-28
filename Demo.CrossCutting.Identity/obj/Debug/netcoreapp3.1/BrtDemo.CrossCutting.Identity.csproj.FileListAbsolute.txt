@@ -1,0 +1,16 @@
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\bin\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.deps.json
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\bin\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.dll
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\obj\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\obj\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\obj\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.AssemblyInfo.cs
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\bin\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.runtimeconfig.json
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\bin\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.runtimeconfig.dev.json
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\bin\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.pdb
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\obj\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.dll
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\obj\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.pdb
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\bin\Debug\netcoreapp3.1\BrtDemo.Domain.Core.dll
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\bin\Debug\netcoreapp3.1\BrtDemo.Domain.dll
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\bin\Debug\netcoreapp3.1\BrtDemo.Domain.pdb
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\bin\Debug\netcoreapp3.1\BrtDemo.Domain.Core.pdb
+C:\Projetos\BrtDemo\BrtDemo.CrossCutting.Identity\obj\Debug\netcoreapp3.1\BrtDemo.CrossCutting.Identity.csproj.CopyComplete

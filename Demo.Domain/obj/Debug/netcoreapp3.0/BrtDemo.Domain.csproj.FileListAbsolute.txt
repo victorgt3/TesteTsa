@@ -1,0 +1,12 @@
+C:\Projetos\BrtDemo\BrtDemo.Domain\obj\Debug\netcoreapp3.0\BrtDemo.Domain.csprojAssemblyReference.cache
+C:\Projetos\BrtDemo\BrtDemo.Domain\obj\Debug\netcoreapp3.0\BrtDemo.Domain.AssemblyInfoInputs.cache
+C:\Projetos\BrtDemo\BrtDemo.Domain\obj\Debug\netcoreapp3.0\BrtDemo.Domain.AssemblyInfo.cs
+C:\Projetos\BrtDemo\BrtDemo.Domain\bin\Debug\netcoreapp3.0\BrtDemo.Domain.deps.json
+C:\Projetos\BrtDemo\BrtDemo.Domain\bin\Debug\netcoreapp3.0\BrtDemo.Domain.dll
+C:\Projetos\BrtDemo\BrtDemo.Domain\bin\Debug\netcoreapp3.0\BrtDemo.Domain.pdb
+C:\Projetos\BrtDemo\BrtDemo.Domain\bin\Debug\netcoreapp3.0\BrtDemo.Domain.Core.dll
+C:\Projetos\BrtDemo\BrtDemo.Domain\bin\Debug\netcoreapp3.0\BrtDemo.Domain.Core.pdb
+C:\Projetos\BrtDemo\BrtDemo.Domain\obj\Debug\netcoreapp3.0\BrtDemo.Domain.csproj.CopyComplete
+C:\Projetos\BrtDemo\BrtDemo.Domain\obj\Debug\netcoreapp3.0\BrtDemo.Domain.dll
+C:\Projetos\BrtDemo\BrtDemo.Domain\obj\Debug\netcoreapp3.0\BrtDemo.Domain.pdb
+C:\Projetos\BrtDemo\BrtDemo.Domain\obj\Debug\netcoreapp3.0\BrtDemo.Domain.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\bin\Debug\netcoreapp3.1\Demo.AutoMapper.deps.json
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\bin\Debug\netcoreapp3.1\Demo.AutoMapper.dll
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\bin\Debug\netcoreapp3.1\Demo.AutoMapper.pdb
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\bin\Debug\netcoreapp3.1\Demo.Domain.Core.dll
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\bin\Debug\netcoreapp3.1\Demo.Domain.dll
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\bin\Debug\netcoreapp3.1\Demo.Domain.pdb
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\bin\Debug\netcoreapp3.1\Demo.Domain.Core.pdb
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\obj\Debug\netcoreapp3.1\Demo.AutoMapper.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\obj\Debug\netcoreapp3.1\Demo.AutoMapper.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\obj\Debug\netcoreapp3.1\Demo.AutoMapper.AssemblyInfo.cs
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\obj\Debug\netcoreapp3.1\Demo.AutoMapper.csproj.CopyComplete
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\obj\Debug\netcoreapp3.1\Demo.AutoMapper.dll
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\obj\Debug\netcoreapp3.1\Demo.AutoMapper.pdb
+C:\Users\Victor\Desktop\demo\Demo.AutoMapper\obj\Debug\netcoreapp3.1\Demo.AutoMapper.csproj.CoreCompileInputs.cache

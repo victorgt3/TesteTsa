@@ -1,0 +1,7 @@
+C:\Projetos\BrtDemo\BrtDemo.Domain.Core1\bin\Debug\netcoreapp3.0\BrtDemo.Domain.Core.deps.json
+C:\Projetos\BrtDemo\BrtDemo.Domain.Core1\bin\Debug\netcoreapp3.0\BrtDemo.Domain.Core.dll
+C:\Projetos\BrtDemo\BrtDemo.Domain.Core1\bin\Debug\netcoreapp3.0\BrtDemo.Domain.Core.pdb
+C:\Projetos\BrtDemo\BrtDemo.Domain.Core1\obj\Debug\netcoreapp3.0\BrtDemo.Domain.Core.AssemblyInfoInputs.cache
+C:\Projetos\BrtDemo\BrtDemo.Domain.Core1\obj\Debug\netcoreapp3.0\BrtDemo.Domain.Core.AssemblyInfo.cs
+C:\Projetos\BrtDemo\BrtDemo.Domain.Core1\obj\Debug\netcoreapp3.0\BrtDemo.Domain.Core.dll
+C:\Projetos\BrtDemo\BrtDemo.Domain.Core1\obj\Debug\netcoreapp3.0\BrtDemo.Domain.Core.pdb

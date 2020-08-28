@@ -1,0 +1,9 @@
+C:\Users\Victor\Desktop\demo\Demo.Infra.Data\bin\Debug\netcoreapp3.1\BrtDemo.Data.Infra.deps.json
+C:\Users\Victor\Desktop\demo\Demo.Infra.Data\bin\Debug\netcoreapp3.1\BrtDemo.Data.Infra.dll
+C:\Users\Victor\Desktop\demo\Demo.Infra.Data\bin\Debug\netcoreapp3.1\BrtDemo.Data.Infra.pdb
+C:\Users\Victor\Desktop\demo\Demo.Infra.Data\obj\Debug\netcoreapp3.1\BrtDemo.Data.Infra.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\demo\Demo.Infra.Data\obj\Debug\netcoreapp3.1\BrtDemo.Data.Infra.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\demo\Demo.Infra.Data\obj\Debug\netcoreapp3.1\BrtDemo.Data.Infra.AssemblyInfo.cs
+C:\Users\Victor\Desktop\demo\Demo.Infra.Data\obj\Debug\netcoreapp3.1\BrtDemo.Data.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\demo\Demo.Infra.Data\obj\Debug\netcoreapp3.1\BrtDemo.Data.Infra.dll
+C:\Users\Victor\Desktop\demo\Demo.Infra.Data\obj\Debug\netcoreapp3.1\BrtDemo.Data.Infra.pdb
